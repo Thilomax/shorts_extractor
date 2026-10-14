@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Video input and output
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
